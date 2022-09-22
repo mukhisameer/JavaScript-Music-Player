@@ -1,4 +1,5 @@
-![Screenshot 2022-09-22 183815](https://user-images.githubusercontent.com/72160157/191851306-854993a6-95af-4528-b6a5-7c3fea1892e2.jpg)
+![Screenshot 2022-09-22 183815](https://user-images.githubusercontent.com/72160157/191852566-49ad6f07-6e8d-4c15-b8ee-e9af66f22515.jpg)
+
 # JavaScript-Music-Player
 
 A music player created using HTML, CSS and JavaScript.
